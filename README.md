@@ -1,5 +1,11 @@
 # Guide
 
-# cd build
-# cmake .. -G "MinGW Makefiles"
-# make
+```
+ cd build
+```
+```
+ cmake .. -G "MinGW Makefiles"
+```
+```
+ make
+```
